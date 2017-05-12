@@ -1,4 +1,4 @@
-(envOpts analysisOrder) ("dc" "tran" "ac")
+(envOpts analysisOrder) ("dc")
 (envOpts autoDisplay) t
 (envOpts cmd64bit) nil
 (envOpts cpfIsPommardEnabled) t
