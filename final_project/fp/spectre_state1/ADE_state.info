@@ -1,0 +1,3 @@
+projectDir = '"~/vlsi/cadence/simulation"
+designInfo = '("final_project" "fp" "schematic" "spectre")
+descriptionText = "None"
